@@ -4,7 +4,7 @@ import logging
 from ludwig.api import LudwigModel
 
 # Hugging Face token
-os.environ["HUGGING_FACE_HUB_TOKEN"] = "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"
+os.environ["HUGGING_FACE_HUB_TOKEN"] = "INSERT TOKEN"
 
 # Ludwig configuration
 config_str = """
